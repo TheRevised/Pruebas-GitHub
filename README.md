@@ -1,2 +1,2 @@
 # Pruebas-GitHub
-Este repositorio se creo para entrenar Git y GitHub
+Este repositorio se creó para entrenar Git y GitHub
